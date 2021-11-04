@@ -12,7 +12,7 @@ Uma série de 4 aulas sobre API do Zabbix.
 
 [Clique aqui para se inscriver](https://bit.ly/2Z2Ipj2). 
 
-## Dia 1
+## Episódio 1
 
 - [Primeira conexão com API do Zabbix](00_primeira_conexao.py)
 - [Lista de todos os hosts cadastrados](01_hosts_monitorados_todos.py)
