@@ -1,6 +1,6 @@
 # Repositório de scripts do Webinar de API do Zabbix
 
-Webinar oficial Zabbix Brasil.
+Webinar oficial Zabbix Brasil.  
 Uma série de 4 aulas sobre API do Zabbix.
 
 ## Nossos encontros
@@ -19,3 +19,13 @@ Uma série de 4 aulas sobre API do Zabbix.
 - [Lista de hosts somente monitorados (habilitados)](01_hosts_monitorados_filtro_padrao_monitored_hosts.py)
 - [Lista de hosts filtrando por status](01_hosts_monitorados_filtro_status.py)
 - [Lista de hosts filtrando por grupo (ID)](01_hosts_monitorados_filtro_padrao_groupids.py)
+
+## Episódio 2
+
+
+## Sugestões de scripts dos participantes
+
+- Backup de templates via API
+- Inserir um hostgroup em hosts já cadastrados
+- Relatório mensal de disponibilidade.
+- Um relatório para um painel diário de reincidência de alertas
