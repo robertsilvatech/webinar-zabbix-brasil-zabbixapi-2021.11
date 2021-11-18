@@ -25,6 +25,14 @@ Uma série de 4 aulas sobre API do Zabbix.
 
 ## Episódio 3
 
+### Inserir um hostgroup em hosts já cadastrados
+
+Perguntas que você precisa responder:
+  - Quais hosts cadastrados?
+    - Qual padrão devemos procurar?
+      - Vamos filtrar por nome do host?
+      - Vamos filtrar por grupo atual do host
+
 
 ## Episódio 4
 
@@ -38,3 +46,4 @@ Uma série de 4 aulas sobre API do Zabbix.
 - Inserir um hostgroup em hosts já cadastrados
 - Relatório mensal de disponibilidade.
 - Um relatório para um painel diário de reincidência de alertas
+- Relatório de métricas de latência e tráfego de portas
