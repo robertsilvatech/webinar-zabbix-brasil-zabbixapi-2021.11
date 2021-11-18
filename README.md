@@ -6,7 +6,7 @@ Uma série de 4 aulas sobre API do Zabbix.
 ## Nossos encontros
 
 [x] 04/11/2021 às 17h  
-[ ] 11/11/2021 às 17h  
+[X] 11/11/2021 às 17h  
 [ ] 18/11/2021 às 17h  
 [ ] 24/11/2021 às 17h  
 
@@ -21,6 +21,15 @@ Uma série de 4 aulas sobre API do Zabbix.
 - [Lista de hosts filtrando por grupo (ID)](01_hosts_monitorados_filtro_padrao_groupids.py)
 
 ## Episódio 2
+
+
+## Episódio 3
+
+
+## Episódio 4
+
+
+## Episódio 5
 
 
 ## Sugestões de scripts dos participantes
